@@ -1,6 +1,9 @@
-# e_mall
+# Breaking Bad(e_mall)
 
-A new Flutter project.
+一个纯前端练手项目，假设绝命毒师的 Pinkman 和 Mr.White 开了个网店，会不会长成这样呢？
+
+Anyway,if you're in trouble
+Better call Saul !
 
 ## Getting Started
 
